@@ -15,11 +15,4 @@
 
 ## カスタマイズ
 以下のコード内を書き換えることで他の拡張子も認識して整理可能です
-file_types = {
-    "images": [".jpg", ".jpeg", ".png", ".gif"],
-    "pdf": [".pdf"],
-    "text": [".txt"],
-    "excel": [".xlsx", ".xls"],
-    "others": [],
-    "presentation":["pptx"]
-}
+!(classification.png)
